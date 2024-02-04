@@ -1,0 +1,6 @@
+First task given by the faculty
+
+git repo creating and adding the file in the github
+
+:wq!
+
